@@ -1,5 +1,6 @@
 # The Wave Nebula
 hey here's my system on cards. enjoy
+(to use the cards, go to the default card skin and enable high contrast)
 
 <img width="548" height="262" alt="image" src="https://github.com/user-attachments/assets/20db2aa7-4954-4254-8142-4731b3483a44" />
 <img width="555" height="270" alt="image" src="https://github.com/user-attachments/assets/348ca9af-14ea-4826-bfbc-0cf070ff5108" />
