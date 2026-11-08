@@ -1,12 +1,3 @@
---- STEAMODDED HEADER
---- MOD_NAME: The Wave Nebula
---- MOD_ID: WaveNebula
---- MOD_AUTHOR: [InfinityPlus05]
---- MOD_DESCRIPTION: Adds my system as card art :3
-
-----------------------------------------------
-------------MOD CODE -------------------------
-
 SMODS.Atlas{
   key = 'wave_nebula_cards',
   path = 'cards.png',
